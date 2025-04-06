@@ -22,7 +22,7 @@
 - (Optional) Can be integrated with OpenAI's GPT or any ML model for AI backend.
 
 ---
-##🙌 Acknowledgements
+🙌 Acknowledgements
 
 Built with Love by Dishant Kaushik
 
